@@ -55,6 +55,11 @@ const Account = () => {
             <>
             <h2 id="total">{status}</h2>
             <label>To continue, please select either "Deposit" or "Withdraw" below.</label>
+            <label class="additional-margin">Note: Please consider a couple things before proceeding:</label>
+            <div class="content-margin">
+                <p>&#x25FC; The input amount cannot be negative.</p>
+                <p>&#x25FC; You cannot withdraw more than your account balance.</p>
+            </div>
             <select onChange={(e) => handleModeSelect(e)} name="mode" id="mode-select">
                 <option id="no-selection" value=""></option>
                 <option id="deposit-selection" value="Deposit">

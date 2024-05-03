@@ -50,3 +50,12 @@ input[type=submit] {
     margin-left: 20px;
     padding-left: 0;
 }
+
+.content-margin {
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.additional-margin {
+    margin-top: 15px;
+}
