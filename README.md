@@ -8,6 +8,7 @@ This is the assignment for the course "Professional Certificate in Coding: Full 
 
 • Added a CSS file to have a better UI for users <br />
 • Added note to let users know things to consider before proceeding with transactions
+• Updated some terms such as "ATM Machine" to "ATM App", and "Cashback" to "Withdraw"
 
 ## How to run
 • Fork this repo to your GitHub <br />
