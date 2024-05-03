@@ -6,7 +6,7 @@ This is the assignment for the course "Professional Certificate in Coding: Full 
 
 ### Improvements
 
-• Added a CSS file to have a better UI for users
+• Added a CSS file to have a better UI for users <br />
 • Added note to let users know things to consider before proceeding with transactions
 
 ## How to run
