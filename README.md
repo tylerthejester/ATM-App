@@ -10,12 +10,14 @@ This is the assignment for the course "Professional Certificate in Coding: Full 
 • Added note to let users know things to consider before proceeding with transactions <br />
 • Updated a couple of terms such as "ATM Machine" to "ATM App", and "Cashback" to "Withdraw"
 
-## How to run
+## How to 
+
 • Fork this repo to your GitHub <br />
 • Clone your repo <br />
 • Run your cloned files with any localhost that you set up on your computer
 
 ## Roadmap of future improvements
+
 • Added error messages for different scenarios that users might encounter
 
 ## License
